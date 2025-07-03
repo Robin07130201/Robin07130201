@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris Adamsc</h1>
+<h1 align="center">Hi 👋, I'm Deepanshu</h1>
 <h3 align="center">Full-Stack and Building Mobile Apps with React Native: A Senior Developer's Experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muku534&label=Profile%20views&color=0e75b6&style=flat" alt="muku534" /> </p>
